@@ -14,4 +14,3 @@ elif x==num:
 else:
     print('FALSE')
 
-cool 
