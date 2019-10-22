@@ -1,7 +1,7 @@
 import math
 
 L=float(raw_input('Enter the length of the pendulum: '))
-g=float(raw_input('Enter the accn due to gravity: ')
+g=float(raw_input('Enter the accn due to gravity: '))
 
 def period(L,g):
     
